@@ -29,7 +29,10 @@
     "import/no-internal-modules": [
       "error",
       {
-        "allow": []
+        "allow": [
+          "antd/es/typography/Text",
+          "*/data/books.json"
+        ]
       }
     ],
     "import/no-useless-path-segments": "error",
