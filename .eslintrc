@@ -31,7 +31,8 @@
       {
         "allow": [
           "antd/es/typography/Text",
-          "*/data/books.json"
+          "*/data/books.json",
+          "antd/dist/antd.dark.css"
         ]
       }
     ],
