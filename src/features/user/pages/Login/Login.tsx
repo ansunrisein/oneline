@@ -1,7 +1,7 @@
 import React from 'react'
 import {Button, Checkbox, Form, Input} from 'antd'
 import {Flex} from 'reflexbox'
-import styles from './Login.module.scss'
+import styles from './Login.module.css'
 
 const rules = [
   {
